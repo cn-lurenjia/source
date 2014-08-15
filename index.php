@@ -1,4 +1,27 @@
-<?php 
-phpinfo();
-echo"1111111111";
+<?php
+	phpinfo();
+	echo"111";
+	echo"222";
+	echo"333";
+	echo"444";
+	echo"555";
+	echo"666";
+	echo"777";
+	echo"888";
+	echo"999";
+	echo"000";
+	phpinfo();
+	echo"111";
+	echo"222";
+	echo"333";
+	echo"444";
+	echo"555";
+	echo"666";
+	echo"777";
+	echo"888";
+	echo"999";
+	echo"000";
+	function t(){
+		echo"111111111111111";
+	}
 ?>
